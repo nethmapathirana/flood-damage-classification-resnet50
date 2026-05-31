@@ -49,9 +49,3 @@ A pre-trained ResNet50 model was fine-tuned to classify drone images into:
 - Expand dataset
 - Integrate Sentinel-1 and Sentinel-2 imagery
 - Object-level damage detection
-
-## Authors
-
-Nethma Pathirana  
-Malintha Ranasinghe  
-Raj Prasanna
