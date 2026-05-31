@@ -2,6 +2,8 @@
 
 This project investigates the use of transfer learning for flood damage classification using drone imagery collected after Cyclone Gabrielle, New Zealand.
 
+This repository contains a simplified implementation used for the ICTICM 2026 work-in-progress study.
+
 ## Overview
 
 A pre-trained ResNet50 model was fine-tuned to classify drone images into:
