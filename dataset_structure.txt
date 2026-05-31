@@ -1,0 +1,9 @@
+flood_detection_split
+
+├── train
+│   ├── Damaged
+│   └── Non-Damaged
+│
+└── test
+    ├── Damaged
+    └── Non-Damaged
